@@ -1,0 +1,8 @@
+name,department,salary,experience,active
+"  olena kovalenko ",Engineering,4200,5,true
+ivan petrenko,Analytics,3100,3,false
+MARIA SYDORENKO,Engineering,4800,6,true
+andrii melnyk,DevOps,4500,4,true
+sofia bondar,QA,2900,2,true
+taras shevchuk,Product,3900,7,true
+natalia tkachenko,HR,2600,4,false

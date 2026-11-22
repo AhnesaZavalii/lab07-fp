@@ -1,0 +1,9 @@
+[
+  {"name": "  olena kovalenko ", "department": "Engineering", "salary": 4200, "experience": 5, "active": true},
+  {"name": "ivan petrenko", "department": "Analytics", "salary": 3100, "experience": 3, "active": false},
+  {"name": "MARIA SYDORENKO", "department": "Engineering", "salary": 4800, "experience": 6, "active": true},
+  {"name": "andrii melnyk", "department": "DevOps", "salary": 4500, "experience": 4, "active": true},
+  {"name": "sofia bondar", "department": "QA", "salary": 2900, "experience": 2, "active": true},
+  {"name": "taras shevchuk", "department": "Product", "salary": 3900, "experience": 7, "active": true},
+  {"name": "natalia tkachenko", "department": "HR", "salary": 2600, "experience": 4, "active": false}
+]
